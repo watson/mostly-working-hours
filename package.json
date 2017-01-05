@@ -1,6 +1,6 @@
 {
   "name": "mostly-working-hours",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Call a callback mostly during normal working hours",
   "main": "index.js",
   "dependencies": {
@@ -30,5 +30,9 @@
   "bugs": {
     "url": "https://github.com/watson/mostly-working-hours/issues"
   },
-  "homepage": "https://github.com/watson/mostly-working-hours#readme"
+  "homepage": "https://github.com/watson/mostly-working-hours#readme",
+  "coordinates": [
+    55.68103929999999,
+    12.5643569
+  ]
 }
