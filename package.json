@@ -1,0 +1,34 @@
+{
+  "name": "mostly-working-hours",
+  "version": "0.0.0",
+  "description": "Call a callback mostly during normal working hours",
+  "main": "index.js",
+  "dependencies": {
+    "is-it-weekend": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
+  },
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/mostly-working-hours.git"
+  },
+  "keywords": [
+    "random",
+    "likelihood",
+    "daytime",
+    "weekday",
+    "weekend",
+    "odds",
+    "callback"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/mostly-working-hours/issues"
+  },
+  "homepage": "https://github.com/watson/mostly-working-hours#readme"
+}
